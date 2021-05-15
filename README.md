@@ -29,9 +29,11 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 》3 servidores Premium VPS 
 
 》Usuario Premium: s/5  = solo 30 dias
+
 •CONEXIÓN PARA 2 CELULARES 
 
 》Usuario Premium Donar: s/20 =>sin fecha de vencimiento.
+
 •CONEXIÓN PARA 2 CELULARES 
 
 ●(Ojo no superar el límite de conexión o tendrás errores de conexión)
