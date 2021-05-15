@@ -37,3 +37,8 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 •CONEXIÓN PARA 3 CELULARES 
 
 ●(Ojo no superar el límite de conexión o tendrás errores de conexión)
+
+
+
+![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210515-155252_MSC%20Injector.jpg)
+
