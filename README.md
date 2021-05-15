@@ -25,7 +25,9 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 ●🛰🛰🛰🛰🛰🛰🛰🛰🛰🛰🛰🛰
 
 ■ INFO MSC:
+
 》3 servidores Premium VPS 
+
 》Usuario Premium: s/5  = solo 30 dias
 •CONEXIÓN PARA 2 CELULARES 
 
