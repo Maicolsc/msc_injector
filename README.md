@@ -52,3 +52,6 @@ CONFIGURACIÓN RECOMENDADO SI TIENES PROBLEMAS
 ![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210515-174453_MSC%20Injector.jpg)
 
 
+![logo](https://github.com/Maicolsc/msc_injector/blob/main/Screenshot_20210515-174519_MSC%20Injector.jpg)
+
+
