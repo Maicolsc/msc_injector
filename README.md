@@ -44,3 +44,11 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 
 ![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210515-155749_MSC%20Injector.jpg)
 
+
+CONFIGURACIÓN RECOMENDADO SI TIENES PROBLEMAS
+
+
+
+![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210515-174453_MSC%20Injector.jpg)
+
+
