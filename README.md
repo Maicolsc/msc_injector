@@ -10,7 +10,11 @@ ACTUALIZADO: 11 de mayo 2021
 
 https://www.mediafire.com/file/bqbxt8g1jwkzq1c/MSC_INJECTOR%2528pro%2529v2.apk/file 
 
-Server VPS CLARO BITEL ENTEL MOVISTAR 
+-desinstala la versión instalada q tienes
+
+Server VPS 
+
+-CLARO BITEL ENTEL MOVISTAR 
 
 USUARIO GRATIS DE PRUEVA: FREE 1 y 2
 
