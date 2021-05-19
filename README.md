@@ -34,7 +34,7 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 
 》2 servidores gratuitos para pruevas
 
-》3 servidores Premium VPS 
+》3 servidores Premium VIP VPS 
 
 》Usuario Premium: s/5  = solo 30 dias
 
