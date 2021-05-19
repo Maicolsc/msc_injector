@@ -12,7 +12,7 @@ ACTUALIZADO: 18 de mayo 2021
 
 https://www.mediafire.com/file/6co4fbvzjy35zzi/msc_injector%2528pro%2529v3.apk/file 
 
--desinstala la versión instalada q tienes
+-desinstalar la versión instalada q tienes
 
 Server VPS 
 
