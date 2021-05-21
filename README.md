@@ -2,15 +2,15 @@
 
 Aplicación MSC INJECTOR 
 
-ACTUALIZADO: 18 de mayo 2021 
+ACTUALIZADO: 20 de mayo 2021 
 
 => corrección de payload y ssl
 
 👇 
 
-●MSC INJECTOR_(PRO) 
+●MSC INJECTOR_(PRO)fix-4
 
-https://www.mediafire.com/file/6co4fbvzjy35zzi/msc_injector%2528pro%2529v3.apk/file 
+https://www.mediafire.com/file/5bodtrqs8al17uk/msc_injector%2528pro%2529v4.apk/file 
 
 -desinstalar la versión instalada q tienes
 
