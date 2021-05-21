@@ -46,7 +46,8 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 
 ●(Ojo no superar el límite de conexión o tendrás errores de conexión)
 
-
+》Video tutorial para configurar msc Injector 
+- https://youtu.be/y7S32DCWR7w
 
 ![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210515-155749_MSC%20Injector.jpg)
 
