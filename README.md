@@ -52,6 +52,7 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 
 
 CONFIGURACIÓN RECOMENDADO SI TIENES PROBLEMAS DE CONEXIÓN
+=> DESACTIVAR DNS
 
 
 
