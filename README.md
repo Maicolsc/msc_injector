@@ -10,11 +10,15 @@ ACTUALIZADO: 23 de mayo 2021
 
 👇 
 
-●MSC INJECTOR_(PRO)fix-6
+●MSC INJECTOR_(PRO)fix-6 
 
 https://www.mediafire.com/file/6peft98wntk6djd/msc_injector%2528pro%2529v6.apk/file 
 
 -desinstalar la versión instalada q tienes
+
+●MSC_INJECTOR_(LITE)FIX_2
+
+https://www.mediafire.com/file/lml9wzp4wh95swh/msc_injector%2528lite%2529.apk/file
 
 =>Server VPS DE ALTA CALIDAD MSC
 
