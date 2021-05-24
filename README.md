@@ -5,6 +5,7 @@ Aplicación MSC INJECTOR
 ACTUALIZADO: 23 de mayo 2021 
 
 => corrección de payload y ssl
+
 => leer toda la descripción ⬇️
 
 👇 
