@@ -1,28 +1,31 @@
-●🛰🛰🛰🛰🛰🛰🛰🛰🛰🛰🛰🛰
+●Oficial actualizaciones msc
 
 Aplicación MSC INJECTOR 
 
-ACTUALIZADO: 21 de mayo 2021 
+ACTUALIZADO: 23 de mayo 2021 
 
 => corrección de payload y ssl
+=> leer toda la descripción ⬇️
 
 👇 
 
-●MSC INJECTOR_(PRO)fix-5
+●MSC INJECTOR_(PRO)fix-6
 
-https://www.mediafire.com/file/ib95cq2aa3d0vp1/msc_injector%2528pro%2529v5.apk/file 
+https://www.mediafire.com/file/6peft98wntk6djd/msc_injector%2528pro%2529v6.apk/file 
 
 -desinstalar la versión instalada q tienes
 
-Server VPS 
+=>Server VPS DE ALTA CALIDAD MSC
 
 -CLARO BITEL ENTEL MOVISTAR 
 
-USUARIO GRATIS DE PRUEVA: FREE 1 y 2
+USUARIO GRATIS DE PRUEVA
+
+-serve fre 1 y free 2 ⬇️
 
 User y contraseña: mscvip 
 
-•si usas mi servidor gratis y sale error de contraseña🤐🤐 compra tu Premium navega sin cortes
+=>si usas mi servidor gratis y sale error de contraseña🤐🤐 compra tu Premium navega sin cortes
 
 ●Aplicación para compartir internet VPN 
 
