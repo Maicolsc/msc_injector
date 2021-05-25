@@ -44,7 +44,9 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 
 》4 servidores Premium VIP VPS 
 
-》Usuario Premium: s/5  = solo 30 dias
+-mejor velocidad y estabilidad
+
+》Usuario Premium: s/10  = solo 30 dias
 
 •CONEXIÓN PARA 2 CELULARES 
 
