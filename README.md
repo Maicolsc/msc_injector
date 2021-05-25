@@ -14,7 +14,7 @@ ACTUALIZADO: 23 de mayo 2021
 
 https://www.mediafire.com/file/6peft98wntk6djd/msc_injector%2528pro%2529v6.apk/file 
 
--desinstalar la versión instalada q tienes
+-solo instalar versión lite si tienes problemas en PRO
 
 ●MSC_INJECTOR_(LITE)FIX_2
 
