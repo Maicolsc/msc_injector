@@ -32,7 +32,7 @@ https://www.mediafire.com/file/lml9wzp4wh95swh/msc_injector%2528lite%2529.apk/fi
 
 USUARIO GRATIS DE PRUEVA
 
--serve fre 1 y free 2 ⬇️
+-serve free 1 y free 2 ⬇️
 
 User y contraseña: mscvip 
 
