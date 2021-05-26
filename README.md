@@ -23,8 +23,11 @@ https://www.mediafire.com/file/lml9wzp4wh95swh/msc_injector%2528lite%2529.apk/fi
 =>Server VPS DE ALTA CALIDAD MSC
 
 -CLARO (ON)
+
 -BITEL (ON)
+
 -ENTEL (OFF)
+
 -MOVISTAR (ON)
 
 USUARIO GRATIS DE PRUEVA
