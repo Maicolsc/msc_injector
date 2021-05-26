@@ -1,6 +1,6 @@
 ●Oficial actualizaciones msc
 
-Aplicación MSC INJECTOR 
+Aplicación MSC INJECTOR VPS DE ALTA CALIDAD
 
 ACTUALIZADO: 23 de mayo 2021 
 
@@ -16,13 +16,16 @@ https://www.mediafire.com/file/6peft98wntk6djd/msc_injector%2528pro%2529v6.apk/f
 
 -si tienes problemas instala versión lite
 
-●MSC_INJECTOR_(LITE)FIX_2
+●MSC_INJECTOR_(LITE)fix_2
 
 https://www.mediafire.com/file/lml9wzp4wh95swh/msc_injector%2528lite%2529.apk/file
 
 =>Server VPS DE ALTA CALIDAD MSC
 
--CLARO BITEL ENTEL MOVISTAR 
+-CLARO (ON)
+-BITEL (ON)
+-ENTEL (OFF)
+-MOVISTAR (ON)
 
 USUARIO GRATIS DE PRUEVA
 
