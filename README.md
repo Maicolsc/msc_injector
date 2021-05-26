@@ -1,8 +1,8 @@
 ●Oficial actualizaciones msc
 
-Aplicación MSC INJECTOR VPS DE ALTA CALIDAD
+=> Aplicación MSC INJECTOR VPS DE ALTA CALIDAD
 
-ACTUALIZADO: 23 de mayo 2021 
+=> ACTUALIZADO: 23 de mayo 2021 
 
 => corrección de payload y ssl
 
