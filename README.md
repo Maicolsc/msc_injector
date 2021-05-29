@@ -12,7 +12,7 @@
 
 ●MSC INJECTOR_(PRO_v1)oficial
 
-https://app.box.com/s/4ehugezxebgxtitj9x13nuytpprzlv1k 
+https://app.box.com/s/u88q83h7eda0yp7bcil6q1sf7ptrzj2a 
 
 -si tienes problemas instala versión lite
 
