@@ -10,13 +10,13 @@
 
 👇 
 
-●MSC INJECTOR_(PRO)fix-6 
+●MSC INJECTOR_(PRO_v1)oficial
 
-https://www.mediafire.com/file/6peft98wntk6djd/msc_injector%2528pro%2529v6.apk/file 
+https://app.box.com/s/4ehugezxebgxtitj9x13nuytpprzlv1k 
 
 -si tienes problemas instala versión lite
 
-●MSC_INJECTOR_(LITE)oficial 
+●MSC_INJECTOR_(LITE_v2)oficial 
 
 https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
