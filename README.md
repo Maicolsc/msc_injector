@@ -18,7 +18,7 @@ https://www.mediafire.com/file/6peft98wntk6djd/msc_injector%2528pro%2529v6.apk/f
 
 ●MSC_INJECTOR_(LITE)oficial 
 
-https://app.box.com/s/4ehugezxebgxtitj9x13nuytpprzlv1k
+https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
 =>Server VPS DE ALTA CALIDAD MSC
 
