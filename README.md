@@ -2,7 +2,7 @@
 
 => Aplicación MSC INJECTOR VPS DE ALTA CALIDAD
 
-=> ACTUALIZADO: 23 de mayo 2021 
+=> ACTUALIZADO: 29 de mayo 2021 
 
 => corrección de payload y ssl
 
@@ -16,9 +16,9 @@ https://www.mediafire.com/file/6peft98wntk6djd/msc_injector%2528pro%2529v6.apk/f
 
 -si tienes problemas instala versión lite
 
-●MSC_INJECTOR_(LITE)fix_2
+●MSC_INJECTOR_(LITE)oficial 
 
-https://www.mediafire.com/file/lml9wzp4wh95swh/msc_injector%2528lite%2529.apk/file
+https://app.box.com/s/4ehugezxebgxtitj9x13nuytpprzlv1k
 
 =>Server VPS DE ALTA CALIDAD MSC
 
