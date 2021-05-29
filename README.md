@@ -4,6 +4,8 @@
 
 => ACTUALIZADO: 29 de mayo 2021 
 
+=> Soporte Android 8,9,10,11
+
 => corrección de payload y ssl
 
 => leer toda la descripción ⬇️
@@ -78,6 +80,7 @@ CONFIGURACIÓN RECOMENDADO SI TIENES PROBLEMAS DE CONEXIÓN
 
 ![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210515-174453_MSC%20Injector.jpg)
 
+=> Configuración extra 
 
 ![logo](https://github.com/Maicolsc/msc_injector/blob/main/Screenshot_20210515-174519_MSC%20Injector.jpg)
 
