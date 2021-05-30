@@ -4,7 +4,7 @@
 
 => ACTUALIZADO: 29 de mayo 2021 
 
-=> Soporte Android 8,9,10,11
+=> Soporte Android 7,8,9,10,11
 
 => corrección de payload y ssl
 
