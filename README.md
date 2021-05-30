@@ -56,7 +56,9 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 
 => ACCESO A TODO LOS SERVER PREMIUM⬇️
 
-》Usuario Premium: s/10  = solo 30 dias
+=>1 USUARIO = S/5 (OFERTA)30 dias
+
+》Usuario Premium: s/10  = 30 dias
 
 •CONEXIÓN PARA 3 CELULARES
 
