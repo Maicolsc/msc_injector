@@ -34,7 +34,7 @@ https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
 USUARIO GRATIS DE PRUEVA
 
--serve free 1 y free 2 ⬇️
+=>serve free 1 y free 2 ⬇️
 
 User y contraseña: mscvip 
 
