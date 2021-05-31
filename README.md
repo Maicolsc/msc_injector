@@ -2,7 +2,7 @@
 
 => Aplicación MSC INJECTOR VPS DE ALTA CALIDAD
 
-=> ACTUALIZADO: 29 de mayo 2021 
+=> ACTUALIZADO: 31 de mayo 2021 
 
 => Soporte Android 7,8,9,10,11
 
