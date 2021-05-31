@@ -12,7 +12,7 @@
 
 👇 
 
-●MSC INJECTOR_(PRO_v1)oficial
+●MSC INJECTOR_(PRO_v2)oficial
 
 https://app.box.com/s/u88q83h7eda0yp7bcil6q1sf7ptrzj2a 
 
