@@ -1,12 +1,14 @@
-●Oficial actualizaciones msc
+●Oficial actualizaciones MSC
 
 => Aplicación MSC INJECTOR VPS DE ALTA CALIDAD
 
-=> ACTUALIZADO: 31 de mayo 2021 
+=> ACTUALIZADO: 1 de junio 2021 
 
 => Soporte Android 7,8,9,10,11
 
 => corrección de payload y ssl
+
+=> corrección de bug
 
 => leer toda la descripción ⬇️
 
@@ -24,13 +26,15 @@ https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
 =>Server VPS DE ALTA CALIDAD MSC
 
--CLARO (ON)
+-CLARO (ON) redes telegram
 
--BITEL (ON)
+-BITEL (ON) redes waze 
 
--ENTEL (OFF)
+-ENTEL (OFF) próximamente 
 
--MOVISTAR (ON)
+-MOVISTAR (ON) redes WhatsApp
+
+-PRÓXIMAMENTE TODO SIN REDES
 
 USUARIO GRATIS DE PRUEVA
 
