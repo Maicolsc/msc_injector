@@ -1,5 +1,9 @@
 ●Oficial actualizaciones MSC
 
+GRUPO Telegram => https://t.me/MSCPERU <br>
+GRUPO WHATSAPP => https://chat.whatsapp.com/CGLQrAC9bVbEexUe86zaE7
+
+
 => Aplicación MSC INJECTOR VPS DE ALTA CALIDAD
 
 => ACTUALIZADO: 1 de junio 2021 
@@ -11,8 +15,6 @@
 => corrección de bug
 
 => leer toda la descripción ⬇️
-
-👇 
 
 ●MSC INJECTOR_(PRO_v2)oficial
 
