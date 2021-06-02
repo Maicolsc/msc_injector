@@ -2,7 +2,7 @@
 
 GRUPOS y CANAL YT MSC<br>
 => https://t.me/MSCPERU <br>
-=> http://bit.ly/mscWST <br>
+=> http://bit.ly/mscWSP <br>
 => http://bit.ly/mscYTU
 
 
