@@ -2,7 +2,7 @@
 
 GRUPOS MSC<br>
 => https://t.me/MSCPERU <br>
-=> https://chat.whatsapp.com/CGLQrAC9bVbEexUe86zaE7
+=> http://bit.ly/mscWST
 
 
 => Aplicación MSC INJECTOR VPS DE ALTA CALIDAD
