@@ -1,7 +1,8 @@
 ●Oficial actualizaciones MSC
 
-GRUPO Telegram => https://t.me/MSCPERU <br>
-GRUPO WHATSAPP => https://chat.whatsapp.com/CGLQrAC9bVbEexUe86zaE7
+GRUPOS MSC<br>
+=> https://t.me/MSCPERU <br>
+=> https://chat.whatsapp.com/CGLQrAC9bVbEexUe86zaE7
 
 
 => Aplicación MSC INJECTOR VPS DE ALTA CALIDAD
