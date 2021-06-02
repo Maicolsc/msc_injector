@@ -16,7 +16,7 @@ GRUPOS y CANAL YT MSC<br>
 => corrección de bug
 
 => leer toda la descripción <br>
--si tenes instalado versión anterior desintalar primero
+-si tenes instalado versión anterior desintalar primero para q te cargue las nuevas configuraciones
 
 ●MSC INJECTOR_(PRO_v2)oficial
 
