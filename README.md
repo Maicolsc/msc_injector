@@ -9,13 +9,14 @@ GRUPOS y CANAL YT MSC<br>
 => Aplicación MSC INJECTOR<br>
 => VPS DE ALTA CALIDAD
 
-=> ACTUALIZADO: 1 de junio 2021 
+=> ACTUALIZADO: 2 de junio 2021 
 
 => Soporte Android 7,8,9,10,11<br>
 => corrección de payload y ssl<br>
 => corrección de bug
 
-=> leer toda la descripción ⬇️
+=> leer toda la descripción <br>
+-si tenes instalado versión anterior desintalar primero
 
 ●MSC INJECTOR_(PRO_v2)oficial
 
@@ -31,10 +32,10 @@ https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
 -CLARO (ON) redes telegram<br>
 -BITEL (ON) redes waze, tiktok<br>
--ENTEL (OFF) próximamente <br>
+-ENTEL (ON) sin redes <br>
 -MOVISTAR (ON) redes WhatsApp
 
--PRÓXIMAMENTE TODO SIN REDES
+-SE VIENE PRÓXIMAMENTE TODO SIN REDES
 
 USUARIO GRATIS DE PRUEVA
 
@@ -53,7 +54,7 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 ■ INFO MSC:
 
 》2 servidores gratuitos para pruevas<br>
-》4 servidores Premium VIP VPS 
+》3 servidores Premium VIP VPS 
 
 -mejor velocidad y estabilidad
 
