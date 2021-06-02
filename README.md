@@ -18,7 +18,7 @@ GRUPOS y CANAL YT MSC<br>
 => leer toda la descripción <br>
 -si tenes instalado versión anterior desintalar primero para q te cargue las nuevas configuraciones
 
-●MSC INJECTOR_(PRO_v2)oficial
+●MSC INJECTOR_(PRO_v3)oficial
 
 https://app.box.com/s/u88q83h7eda0yp7bcil6q1sf7ptrzj2a 
 
