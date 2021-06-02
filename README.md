@@ -21,7 +21,7 @@ https://app.box.com/s/u88q83h7eda0yp7bcil6q1sf7ptrzj2a
 
 -si tienes problemas instala versión lite
 
-●MSC_INJECTOR_(LITE_v2)oficial 
+●MSC_INJECTOR_(LITE_v3)oficial 
 
 https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
