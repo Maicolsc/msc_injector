@@ -29,7 +29,7 @@ https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 =>Server VPS DE ALTA CALIDAD MSC
 
 -CLARO (ON) redes telegram<br>
--BITEL (ON) redes waze <br>
+-BITEL (ON) redes waze, tiktok<br>
 -ENTEL (OFF) próximamente <br>
 -MOVISTAR (ON) redes WhatsApp
 
