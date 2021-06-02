@@ -8,10 +8,8 @@ GRUPO WHATSAPP => https://chat.whatsapp.com/CGLQrAC9bVbEexUe86zaE7
 
 => ACTUALIZADO: 1 de junio 2021 
 
-=> Soporte Android 7,8,9,10,11
-
-=> corrección de payload y ssl
-
+=> Soporte Android 7,8,9,10,11<br>
+=> corrección de payload y ssl<br>
 => corrección de bug
 
 => leer toda la descripción ⬇️
@@ -28,12 +26,9 @@ https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
 =>Server VPS DE ALTA CALIDAD MSC
 
--CLARO (ON) redes telegram
-
--BITEL (ON) redes waze 
-
--ENTEL (OFF) próximamente 
-
+-CLARO (ON) redes telegram<br>
+-BITEL (ON) redes waze <br>
+-ENTEL (OFF) próximamente <br>
 -MOVISTAR (ON) redes WhatsApp
 
 -PRÓXIMAMENTE TODO SIN REDES
@@ -54,8 +49,7 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 
 ■ INFO MSC:
 
-》2 servidores gratuitos para pruevas
-
+》2 servidores gratuitos para pruevas<br>
 》4 servidores Premium VIP VPS 
 
 -mejor velocidad y estabilidad
