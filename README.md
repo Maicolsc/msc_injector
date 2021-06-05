@@ -80,14 +80,14 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 
 -(APK) https://app.box.com/s/og0x92z3bitsi38w82n0v1i4qegvq0nr
 
-![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210515-155749_MSC%20Injector.jpg)
+![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210605-163544_MSC%20VPNlite.jpg)
 
 => CONEXIÓN PROXY 
 
-![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210515-174453_MSC%20Injector.jpg)
+![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210605-163544_MSC%20VPNlite.jpg)
 
 => CONEXIÓN SSL
 
-![logo](https://github.com/Maicolsc/msc_injector/blob/main/Screenshot_20210515-174519_MSC%20Injector.jpg)
+![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210605-163544_MSC%20VPNlite.jpg)
 
 
