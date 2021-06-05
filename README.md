@@ -30,10 +30,10 @@ https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
 =>Server VPS DE ALTA CALIDAD MSC
 
--CLARO (ON) redes telegram<br>
--BITEL (ON) redes waze, tiktok<br>
--ENTEL (ON) sin redes <br>
--MOVISTAR (ON) redes WhatsApp
+-CLARO (ON) redes telegram-SSL<br>
+-BITEL (ON) redes waze, tiktok-SSL<br>
+-ENTEL (ON) sin redes-PROXY<br>
+-MOVISTAR (ON) redes WhatsApp-SSL
 
 -SE VIENE PRÓXIMAMENTE TODO SIN REDES
 
