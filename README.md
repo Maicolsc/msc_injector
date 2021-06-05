@@ -39,7 +39,7 @@ https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
 USUARIO GRATIS DE PRUEVA
 
-=>serve free 1 y free 2 ⬇️
+=>serve free 1 ⬇️
 
 User y contraseña: mscvip 
 
@@ -53,7 +53,7 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 
 ■ INFO MSC:
 
-》2 servidores gratuitos para pruevas<br>
+》1 servidores gratuitos para pruevas<br>
 》3 servidores Premium VIP VPS 
 
 -mejor velocidad y estabilidad
