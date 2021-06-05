@@ -84,7 +84,7 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 
 => CONEXIÓN PROXY 
 
-![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210605-163544_MSC%20VPNlite.jpg)
+![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210605-163803_MSC%20VPNlite.jpg)
 
 => CONEXIÓN SSL
 
