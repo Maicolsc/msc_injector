@@ -77,7 +77,7 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 ●(Ojo no superar el límite de conexión o tendrás errores de conexión)
 
 》NUEVA COMPILE VERSION LITE APLICACIÓN MSC<br>
-=> Android 5,6,7,8,9,10,11<br>
+=> Android 10,11<br>
 Tutorial=> https://youtu.be/NZDUwhxCFHo
 
 -(APK) https://app.box.com/s/og0x92z3bitsi38w82n0v1i4qegvq0nr
