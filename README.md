@@ -41,7 +41,8 @@ USUARIO GRATIS DE PRUEVA
 
 =>serve free 1 ⬇️
 
-User y contraseña: mscvip 
+User y contraseña: mscvip <br>
+=>dele like a mi último video para tener activo la contraseña Gratis 
 
 =>si usas mi servidor gratis y sale error de contraseña🤐🤐 compra tu Premium navega sin cortes
 
