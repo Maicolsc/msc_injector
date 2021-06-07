@@ -13,7 +13,8 @@ GRUPOS y CANAL YT MSC<br>
 
 => Soporte Android 8,9,10,11<br>
 => Nuevos payload y ssl<br>
-=> corrección de bug
+=> corrección de bug <br>
+=> mantener siempre actualizado la aplicación
 
 => leer toda la descripción <br>
 -si tenes instalado versión anterior desintalar primero para q te cargue las nuevas configuraciones
