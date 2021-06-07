@@ -44,7 +44,7 @@ USUARIO GRATIS DE PRUEVA
 User y contraseña: mscvip <br>
 =>dele like a mi último video para tener activo la contraseña Gratis 
 
-=>si usas mi servidor gratis y sale error de contraseña🤐🤐 compra tu Premium navega sin cortes
+=>si usas mi servidor gratis y sale error de contraseña🤐🤐 compra tu Premium navega sin cortes y mayor velocidad
 
 ●Aplicación para compartir internet VPN 
 
