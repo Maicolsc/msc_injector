@@ -12,7 +12,7 @@ GRUPOS y CANAL YT MSC<br>
 => ACTUALIZADO: 7 de junio 2021 
 
 => Soporte Android 8,9,10,11<br>
-=> corrección de payload y ssl<br>
+=> Nuevos payload y ssl<br>
 => corrección de bug
 
 => leer toda la descripción <br>
