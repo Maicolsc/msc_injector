@@ -57,7 +57,7 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 》1 servidores gratuitos para pruevas<br>
 》3 servidores Premium VIP VPS 
 
--mejor velocidad y estabilidad
+-mejor velocidad y estabilidad Premium
 
 => ACCESO A TODO LOS SERVER PREMIUM
 
@@ -67,7 +67,7 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 =================================<br>
 》Usuario Premium: s/10  = 30 dias
 
-•CONEXIÓN PARA 3 CELULARES
+•CONEXIÓN PARA 3 CELULARES 
 
 》Usuario Premium Donar: s/20 => 5 meses.
 
