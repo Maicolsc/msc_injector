@@ -82,7 +82,7 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 => Solo Android 11<br>
 Tutorial=> 
 
--(APK) https://app.box.com/s/og0x92z3bitsi38w82n0v1i4qegvq0nr
+-(APK) próximamente
 
 ![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210605-164246_MSC%20VPNlite.jpg)
 
