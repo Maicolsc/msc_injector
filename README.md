@@ -78,20 +78,14 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 
 ●(Ojo no superar el límite de conexión o tendrás errores de conexión)
 
-》NUEVA COMPILE VERSION LITE APLICACIÓN MSC<br>
-=> Solo Android 11<br>
+》VERSION APLICACIÓN MSC<br>
+=> Android 10,11<br>
 Tutorial=> 
 
--(APK) próximamente
+-(APK) FIX
 
-![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210605-164246_MSC%20VPNlite.jpg)
+![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210613-104305_MSC%20Injector.jpg)
 
-=> CONEXIÓN PROXY 
+=> MSC
 
 ![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210605-163803_MSC%20VPNlite.jpg)
-
-=> CONEXIÓN SSL
-
-![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210605-163544_MSC%20VPNlite.jpg)
-
-
