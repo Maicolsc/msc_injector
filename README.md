@@ -79,7 +79,8 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 ●(Ojo no superar el límite de conexión o tendrás errores de conexión)
 
 》VERSION APLICACIÓN MSC<br>
-=> Android 10,11 <br>
+=> Android 6,7,10,11 <br>
+=> Soporte ssl, ssh,Slowdns, Proxy, Diret 
 
 Tutorial=> 
 
