@@ -88,4 +88,4 @@ Tutorial=>
 
 => MSC
 
-![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210605-163803_MSC%20VPNlite.jpg)
+![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210613-104311_MSC%20Injector.jpg)
