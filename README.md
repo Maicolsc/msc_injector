@@ -79,12 +79,12 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 ●(Ojo no superar el límite de conexión o tendrás errores de conexión)
 
 》VERSION APLICACIÓN MSC<br>
-=> Android 6,7,10,11 <br>
-=> Soporte ssl, ssh,Slowdns, Proxy, Diret 
+=> Android 5,6,7,8,9,10,11 <br>
+=> Soporte ssl,ssh,Slowdns,Proxy,Diret 
 
 Tutorial=> 
 
--(APK) FIX
+-(APK) FIX 
 
 ![logo](https://raw.githubusercontent.com/Maicolsc/msc_injector/main/Screenshot_20210613-104305_MSC%20Injector.jpg)
 
