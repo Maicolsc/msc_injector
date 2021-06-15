@@ -9,23 +9,24 @@ GRUPOS y CANAL YT MSC<br>
 => Aplicación MSC INJECTOR<br>
 => VPS DE ALTA CALIDAD
 
-=> ACTUALIZADO: 13 de junio 2021 
+=> ACTUALIZADO: 15 de junio 2021 
 
 => Soporte Android 8,9,10,11<br>
 => Nuevos payload y ssl<br>
+=> Nuevos servidores vps
 => La aplicación esta en desarrollo, NUEVAS MEJORAS CADA ACTUALIZACIÓN<br>
 => mantener siempre actualizado la aplicación
 
 => leer toda la descripción <br>
 -si tenes instalado versión anterior desintalar primero para q te cargue las nuevas configuraciones
 
-●MSC INJECTOR_(PRO_cf:5)oficial
+●MSC INJECTOR_(PRO_cf:6)oficial
 
 https://app.box.com/s/u88q83h7eda0yp7bcil6q1sf7ptrzj2a 
 
 -si tienes problemas instala versión lite
 
-●MSC_INJECTOR_(LITE_cf:5)oficial 
+●MSC_INJECTOR_(LITE_cf:6)oficial 
 
 https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
