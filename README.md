@@ -14,7 +14,8 @@ GRUPOS y CANAL YT MSC<br>
 => Soporte Android 8,9,10,11<br>
 => Nuevos payload y ssl<br>
 => Nuevos servidores vps <br>
-=> La aplicación esta en desarrollo, NUEVAS MEJORAS CADA ACTUALIZACIÓN<br>
+=> La aplicación esta en desarrollo <br>
+=> NUEVAS MEJORAS CADA ACTUALIZACIÓN<br>
 => mantener siempre actualizado la aplicación
 
 => leer toda la descripción <br>
