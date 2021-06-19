@@ -45,8 +45,6 @@ USUARIO GRATIS DE PRUEVA
 
 ● USER Y CONTRASEÑA: peruchile
 
-=>dele like a mi último video para tener activo la contraseña Gratis 
-
 =>si usas mi servidor gratis y sale error de contraseña🤐🤐 compra tu Premium navega sin cortes y mayor velocidad
 
 ●Aplicación para compartir internet VPN 
