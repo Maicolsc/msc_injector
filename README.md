@@ -15,7 +15,7 @@ GRUPOS y CANAL YT MSC<br>
 => Nuevos payload y ssl<br>
 => Nuevos servidores vps <br>
 => La aplicación esta en desarrollo <br>
-=> NUEVAS MEJORAS CADA ACTUALIZACIÓN<br>
+=> Nuevas mejoras cada actualización<br>
 => mantener siempre actualizado la aplicación
 
 => leer toda la descripción <br>
