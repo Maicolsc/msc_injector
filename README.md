@@ -3,8 +3,8 @@
 GRUPOS y CANAL YT MSC<br>
 => https://t.me/MSCPERU <br>
 => http://bit.ly/mscWSP <br>
-=> http://bit.ly/mscYTU
-
+=> http://bit.ly/mscYTU <br>
+=> leer toda la descripción
 
 => Aplicación MSC INJECTOR<br>
 => VPS DE ALTA CALIDAD
@@ -18,7 +18,6 @@ GRUPOS y CANAL YT MSC<br>
 => Nuevas mejoras cada actualización<br>
 => mantener siempre actualizado la aplicación
 
-=> leer toda la descripción <br>
 -si tenes instalado versión anterior desintalar primero para q te cargue las nuevas configuraciones
 
 ●MSC INJECTOR_(PRO_cf:7)oficial
