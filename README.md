@@ -70,11 +70,11 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 =================================<br>
 》Usuario Premium: s/10  = 30 dias
 
-•CONEXIÓN PARA 3 CELULARES 
+•CONEXIÓN PARA 2 CELULARES 
 
 》Usuario Premium Donar: s/20 => 5 meses.
 
-•CONEXIÓN PARA 3 CELULARES
+•CONEXIÓN PARA 2 CELULARES
 
 =================================
 
