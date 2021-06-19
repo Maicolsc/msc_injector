@@ -72,7 +72,7 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 
 •CONEXIÓN PARA 2 CELULARES 
 
-》Usuario Premium Donar: s/20 => 5 meses.
+》Usuario Premium Donar: s/20 => 3 meses.
 
 •CONEXIÓN PARA 2 CELULARES
 
