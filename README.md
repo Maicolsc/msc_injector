@@ -32,6 +32,7 @@ https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
 =>Server VPS DE ALTA CALIDAD MSC
 
+》REQUISITOS PARA CONECTARSE <br>
 -CLARO (ON) redes telegram-SSL<br>
 -BITEL (ON) redes waze, tiktok-SSL<br>
 -ENTEL (ON) sin redes-PROXY<br>
