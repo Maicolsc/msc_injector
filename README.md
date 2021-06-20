@@ -9,7 +9,7 @@ GRUPOS y CANAL YT MSC<br>
 => Aplicación MSC INJECTOR<br>
 => VPS DE ALTA CALIDAD
 
-=> ACTUALIZADO: 19 de junio 2021 
+=> ACTUALIZADO: 20 de junio 2021 
 
 => Soporte Android 8,9,10,11<br>
 => Nuevos payload y ssl<br>
