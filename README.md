@@ -35,7 +35,7 @@ https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 》REQUISITOS PARA CONECTARSE <br>
 -CLARO (ON) redes telegram-SSL<br>
 -BITEL (ON) redes waze, tiktok-SSL<br>
--ENTEL (ON) sin redes-PROXY<br>
+-ENTEL (ON) sin redes <br>
 -MOVISTAR (ON) redes WhatsApp-SSL
 
 -SE VIENE PRÓXIMAMENTE TODO SIN REDES
