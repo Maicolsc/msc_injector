@@ -44,7 +44,7 @@ USUARIO GRATIS DE PRUEVA
 
 =>serve free 1 ⬇️
 
-● USER Y CONTRASEÑA: peruchile
+● USER Y CONTRASEÑA: mscperu
 
 =>si usas mi servidor gratis y sale error de contraseña🤐🤐 compra tu Premium navega sin cortes y mayor velocidad
 
