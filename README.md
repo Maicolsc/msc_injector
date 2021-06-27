@@ -40,11 +40,19 @@ https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
 -SE VIENE PRÓXIMAMENTE TODO SIN REDES
 
+=============================================
+
+● MSC VPNGratis (aplicación gratis msc)
+
+=> https://app.box.com/s/nszunol22k0ytm3hr2l87u8izq5l9nr4
+
 USUARIO GRATIS DE PRUEVA
 
 =>serve free 1 ⬇️
 
 ● USER Y CONTRASEÑA: mscperu
+
+=============================================
 
 =>si usas mi servidor gratis y sale error de contraseña🤐🤐 compra tu Premium navega sin cortes y mayor velocidad
 
