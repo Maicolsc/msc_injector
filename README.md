@@ -40,7 +40,7 @@ https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
 -SE VIENE PRÓXIMAMENTE TODO SIN REDES
 
-===================================
+==================================
 
 ● MSC VPNGratis (aplicación gratis msc)
 
