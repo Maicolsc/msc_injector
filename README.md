@@ -13,7 +13,7 @@ GRUPOS y CANAL YT MSC<br>
 
 - obligatorio desintalar las version anterior
 
-=> Nueva firma
+=> Nueva firma <br>
 => Soporte Android 8,9,10,11<br>
 => Nuevos payload y ssl<br>
 => Nuevos servidores vps <br>
