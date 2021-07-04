@@ -51,8 +51,8 @@ USUARIO GRATIS DE PRUEVA
 
 =>serve Gratis 1,2,3,4,5
 
-● USER Y CONTRASEÑA: mscperu
-
+● USER Y CONTRASEÑA: mscperu <br>
+-LIKE A MI ÚLTIMO VIDEO PARA TENER ACTIVO EL USUARIO GRATIS<br>
 ==================================
 
 =>si usas mi servidor gratis y sale error de contraseña🤐🤐 compra tu Premium navega sin cortes y mayor velocidad
