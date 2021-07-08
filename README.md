@@ -49,7 +49,7 @@ https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
 => ACTUALIZADO: 4 de julio 2021
 
-=> https://app.box.com/s/nszunol22k0ytm3hr2l87u8izq5l9nr4
+https://app.box.com/s/nszunol22k0ytm3hr2l87u8izq5l9nr4
 
 USUARIO GRATIS DE PRUEVA
 
