@@ -29,7 +29,7 @@ https://app.box.com/s/u88q83h7eda0yp7bcil6q1sf7ptrzj2a
 
 ●MSC_VPNLite_(LITE_cf:6)oficial 
 
-=> ACTUALIZADO: 4 de julio 2021
+=> ACTUALIZADO: 10 de julio 2021
 
 https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
@@ -45,9 +45,9 @@ https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
 ==================================
 
-● MSC VPNGratis_V1 (aplicación gratis msc)
+● MSC VPNGratis_V2 (aplicación gratis msc)
 
-=> ACTUALIZADO: 4 de julio 2021
+=> ACTUALIZADO: 10 de julio 2021
 
 https://app.box.com/s/nszunol22k0ytm3hr2l87u8izq5l9nr4
 
