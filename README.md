@@ -20,9 +20,9 @@ GRUPOS y CANAL YT MSC<br>
 => Nuevas mejoras cada actualización<br>
 => mantener siempre actualizado
 
-●MSC_INJECTOR_(PRO_cf:6)oficial
+●MSC_INJECTOR_(PRO_cf:8)oficial
 
-=> ACTUALIZADO: 4 de julio 2021
+=> ACTUALIZADO: 11 de julio 2021
 
 https://app.box.com/s/u88q83h7eda0yp7bcil6q1sf7ptrzj2a 
 
