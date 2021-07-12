@@ -11,7 +11,7 @@ GRUPOS y CANAL YT MSC<br>
 
 - obligatorio desintalar la version anterior
 
-=> Nuevas opciones DNS<br>
+=> Corrección de Soporte<br>
 => Soporte Importar y exportar configuración<br>
 => 100% OPTIMIZADO<br>
 => Soporte Android 8,9,10,11<br>
