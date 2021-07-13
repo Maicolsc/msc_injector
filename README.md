@@ -11,9 +11,10 @@ GRUPOS y CANAL YT MSC<br>
 
 - obligatorio desintalar la version anterior
 
-=> Corrección de Soporte<br>
+=> Corrección de conexión<br>
 => Soporte Importar y exportar configuración<br>
 => 100% OPTIMIZADO<br>
+=> OPTIMIZADO 10 minutos de ejecución con pantalla apagada <br>
 => Soporte Android 8,9,10,11<br>
 => Nuevos payload y ssl<br>
 => Nuevos servidores vps <br>
@@ -23,7 +24,7 @@ GRUPOS y CANAL YT MSC<br>
 
 ●MSC_INJECTOR_(PRO_cf:8)oficial
 
-=> ACTUALIZADO: 12 de julio 2021
+=> ACTUALIZADO: 13 de julio 2021
 
 https://app.box.com/s/u88q83h7eda0yp7bcil6q1sf7ptrzj2a 
 
