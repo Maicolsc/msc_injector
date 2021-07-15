@@ -20,7 +20,8 @@ GRUPOS y CANAL YT MSC<br>
 => Nuevos servidores vps <br>
 => La aplicación esta en desarrollo <br>
 => Nuevas mejoras cada actualización<br>
-=> mantener siempre actualizado
+=> mantener siempre actualizado<br>
+=> Puede ver algunos errores para algunos dispositivos
 
 ●MSC_INJECTOR_(PRO_cf:8)oficial
 
