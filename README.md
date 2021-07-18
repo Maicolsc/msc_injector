@@ -25,7 +25,7 @@ GRUPOS y CANAL YT MSC<br>
 
 ●MSC_INJECTOR_(PRO_cf:8)oficial
 
-=> ACTUALIZADO: 13 de julio 2021
+=> ACTUALIZADO: 17 de julio 2021
 
 https://app.box.com/s/u88q83h7eda0yp7bcil6q1sf7ptrzj2a 
 
