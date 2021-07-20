@@ -59,7 +59,7 @@ USUARIO GRATIS DE PRUEVA
 
 =>serve Gratis 1,2,3,4,5
 
--● USER Y CONTRASEÑA: mscperu <br>
+-● USER Y CONTRASEÑA: en el grupo <br>
 
  -LIKE A MI ÚLTIMO VIDEO PARA TENER ACTIVO EL USUARIO GRATIS<br>
 ==================================
