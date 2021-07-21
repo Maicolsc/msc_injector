@@ -31,9 +31,9 @@ https://app.box.com/s/u88q83h7eda0yp7bcil6q1sf7ptrzj2a
 
 -si tienes problemas instala versión lite
 
-●MSC_VPNLite_(LITE_cf:6)oficial 
+●MSC_VPNLite_(LITE_cf:8)oficial 
 
-=> ACTUALIZADO: 10 de julio 2021
+=> ACTUALIZADO: 21 de julio 2021
 
 https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
