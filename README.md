@@ -75,7 +75,7 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 ■ INFO MSC PREMIUM VPS VIP:
 
 》1 servidores gratis para pruevas<br>
-》4 servidores Premium VIP VPS 
+》3 servidores Premium De ALTA CALIDAD
 
 -mejor velocidad y estabilidad Premium
 
