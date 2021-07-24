@@ -80,7 +80,7 @@ https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file
 -mejor velocidad y estabilidad Premium
 
 =>1 USUARIO = S/5 (OFERTA)30 dia<br>
-•conexión 1 celular y acceso a 1 servidor Premium
+•conexión 1 celular y acceso a servidor gratis sin caídas
 
 =================================<br>
 => ACCESO A TODO LOS SERVER PREMIUM<br>
