@@ -14,7 +14,7 @@ GRUPOS y CANAL YT MSC<br>
 => Corrección de DNS<br>
 => Soporte Importar y exportar configuración<br>
 => 100% OPTIMIZADO<br>
-=> 10 minutos de ejecución con pantalla apagada <br>
+=> 10 minutos de ejecución con pantalla apagada(PRO) <br>
 => Soporte Android 8,9,10,11<br>
 => Nuevos payload y ssl<br>
 => Nuevos servidores vps <br>
