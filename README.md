@@ -23,7 +23,7 @@ GRUPOS y CANAL YT MSC<br>
 => mantener siempre actualizado<br>
 => Puede ver algunos errores para algunos dispositivos
 
-●MSC INJECTOR_PRO(confg:1.0.2)oficial
+●MSC INJECTOR_PRO(confg:1.1.2)oficial
 
 => ACTUALIZADO: 24 de julio 2021 en desarrollo
 
