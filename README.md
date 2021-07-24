@@ -23,17 +23,17 @@ GRUPOS y CANAL YT MSC<br>
 => mantener siempre actualizado<br>
 => Puede ver algunos errores para algunos dispositivos
 
-●MSC_INJECTOR_(PRO_cf:9)oficial
+●MSC INJECTOR_PRO(confg:1.0.2)oficial
 
-=> ACTUALIZADO: 20 de julio 2021 en desarrollo
+=> ACTUALIZADO: 24 de julio 2021 en desarrollo
 
 https://app.box.com/s/u88q83h7eda0yp7bcil6q1sf7ptrzj2a 
 
 -si tienes problemas instala versión lite
 
-●MSC_VPNLite_(LITE_cf:8)oficial 
+●MSC_VPNLite_(LITE_cf:9)oficial 
 
-=> ACTUALIZADO: 21 de julio 2021
+=> ACTUALIZADO: 24 de julio 2021
 
 https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
@@ -49,9 +49,9 @@ https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
 ==================================
 
-● MSC VPNGratis_V2 (aplicación gratis msc)
+● MSC VPNGratis (aplicación gratis msc)
 
-=> ACTUALIZADO: 10 de julio 2021
+=> ACTUALIZADO: 24 de julio 2021
 
 https://app.box.com/s/nszunol22k0ytm3hr2l87u8izq5l9nr4
 
