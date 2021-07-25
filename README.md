@@ -61,7 +61,7 @@ USUARIO GRATIS DE PRUEVA
 
 -● USER Y CONTRASEÑA: en el grupo <br>
 
- -LIKE A MI ÚLTIMO VIDEO PARA TENER ACTIVO EL USUARIO GRATIS<br>
+ -DOMINGOS Y SABADOS USUARIO GRATIS DESACTIVADO<br>
 ==================================
 
 =>si usas mi servidor gratis y sale error de contraseña🤐🤐 compra tu Premium navega sin cortes y mayor velocidad
