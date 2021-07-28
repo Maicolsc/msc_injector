@@ -7,8 +7,8 @@ GRUPOS y CANAL YT MSC<br>
 => CANAL TELEGRAM <br>
 - PAYLOAD <br>
 - VPS GRATIS <br>
-- 2021 <br>
-https://t.me/mscvip
+- 2021 https://t.me/mscvip<br>
+
 
 => leer toda la descripción
 => Aplicación MSC INJECTOR<br>
