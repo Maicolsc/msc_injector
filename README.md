@@ -4,8 +4,13 @@ GRUPOS y CANAL YT MSC<br>
 => https://t.me/MSCPERU <br>
 => http://bit.ly/mscWSP <br>
 => http://bit.ly/mscYTU <br>
-=> leer toda la descripción
+=> CANAL TELEGRAM <br>
+- PAYLOAD <br>
+- VPS GRATIS <br>
+- 2021 <br>
+https://t.me/mscvip
 
+=> leer toda la descripción
 => Aplicación MSC INJECTOR<br>
 => VPS DE ALTA CALIDAD
 
@@ -27,6 +32,7 @@ GRUPOS y CANAL YT MSC<br>
 
 => ACTUALIZADO: 24 de julio 2021 en desarrollo
 
+DESCARGA AQUI👇<br>
 https://app.box.com/s/u88q83h7eda0yp7bcil6q1sf7ptrzj2a 
 
 -si tienes problemas instala versión lite
@@ -35,6 +41,7 @@ https://app.box.com/s/u88q83h7eda0yp7bcil6q1sf7ptrzj2a
 
 => ACTUALIZADO: 27 de julio 2021
 
+DESCARGA AQUI👇<br>
 https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
 =>Server VPS DE ALTA CALIDAD MSC
@@ -49,17 +56,9 @@ https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
 ==================================
 
-● MSC VPNGratis (aplicación gratis msc)
+=> USUARIO GRATIS AQUÍ 
 
-=> ACTUALIZADO: 24 de julio 2021
-
-https://app.box.com/s/nszunol22k0ytm3hr2l87u8izq5l9nr4
-
-USUARIO GRATIS DE PRUEVA
-
-=>serve Gratis 1,2,3,4,5
-
--● USER Y CONTRASEÑA: en el grupo <br>
+-● USER Y CONTRASEÑA: en el Canal telegram<br>
 
  -DOMINGOS Y SABADOS USUARIO GRATIS DESACTIVADO<br>
 ==================================
