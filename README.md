@@ -10,8 +10,8 @@ GRUPOS y CANAL YT MSC<br>
 - 2021 https://t.me/mscvip<br>
 
 
-=> leer toda la descripción
-=> Aplicación MSC INJECTOR<br>
+=> leer toda la descripción <br>
+=> Aplicación MSC INJECTOR <br>
 => VPS DE ALTA CALIDAD
 
 - obligatorio desintalar la version anterior
