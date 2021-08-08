@@ -16,13 +16,12 @@ GRUPOS y CANAL YT MSC<br>
 
 - obligatorio desintalar la version anterior
 
-=> Corrección de DNS<br>
+=> Corrección de DNS y Compresión de datos<br>
 => Soporte Importar y exportar configuración<br>
 => 100% OPTIMIZADO<br>
-=> 10 minutos de ejecución con pantalla apagada(PRO) <br>
+=> Ejecución en segundo plano<br>
 => Soporte Android 8,9,10,11<br>
 => Nuevos payload y ssl<br>
-=> Nuevos servidores vps <br>
 => La aplicación esta en desarrollo <br>
 => Nuevas mejoras cada actualización<br>
 => mantener siempre actualizado<br>
