@@ -56,18 +56,18 @@ https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 
 ==================================
 
-=> USUARIO GRATIS AQUÍ 
+=> USUARIO PREMIUM
 
--● USER Y CONTRASEÑA: en el Canal telegram<br>
+-● USER Y CONTRASEÑA: EN VENTA<br>
 
- -DOMINGOS Y SABADOS USUARIO GRATIS DESACTIVADO<br>
+ - Cada Domingos Actualización <br>
 ==================================
 
-=>si usas mi servidor gratis y sale error de contraseña🤐🤐 compra tu Premium navega sin cortes y mayor velocidad
-
-●Aplicación para compartir internet VPN 
-
-https://www.mediafire.com/file/5chpylf8et4749z/VPN_SHARE_.apk/file 
+●PAGOS MEDIANTE <br>
+-YAPE <br>
+-BCP <br>
+-TUNKI <br>
+-RECARGA ENTEL <br>
 
 ●🛰🛰🛰🛰🛰🛰🛰🛰🛰🛰🛰🛰
 
