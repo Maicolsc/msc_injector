@@ -27,16 +27,16 @@ GRUPOS y CANAL YT MSC<br>
 => mantener siempre actualizado<br>
 => Puede ver algunos errores para algunos dispositivos
 
-●MSC INJECTOR_PRO(confg:1.1.2)oficial
+●MSC INJECTOR_PRO(confg:12)oficial
 
-=> ACTUALIZADO: 31 de julio 2021 en desarrollo
+=> ACTUALIZADO: 9 de agosto 2021
 
 DESCARGA AQUI👇<br>
 https://app.box.com/s/u88q83h7eda0yp7bcil6q1sf7ptrzj2a 
 
 -si tienes problemas instala versión lite
 
-●MSC_VPNLite_(LITE_cf:1.1.0)oficial 
+●MSC_VPNLite_(LITE_cf:11)oficial 
 
 => ACTUALIZADO: 31 de julio 2021
 
