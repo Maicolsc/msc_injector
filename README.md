@@ -29,7 +29,7 @@ GRUPOS y CANAL YT MSC<br>
 
 ●MSC INJECTOR_PRO(confg:12)oficial
 
-=> ACTUALIZADO: 13 de agosto 2021
+=> ACTUALIZADO: 15 de agosto 2021
 
 DESCARGA AQUI👇<br>
 https://app.box.com/s/u88q83h7eda0yp7bcil6q1sf7ptrzj2a 
@@ -38,7 +38,7 @@ https://app.box.com/s/u88q83h7eda0yp7bcil6q1sf7ptrzj2a
 
 ●MSC_VPNLite_(LITE_cf:11)oficial 
 
-=> ACTUALIZADO: 31 de julio 2021
+=> ACTUALIZADO: 15 de agosto 2021
 
 DESCARGA AQUI👇<br>
 https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
