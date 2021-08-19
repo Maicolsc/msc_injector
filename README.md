@@ -46,10 +46,10 @@ https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 =>Server VPS DE ALTA CALIDAD MSC
 
 》REQUISITOS PARA CONECTARSE <br>
--CLARO (ON) redes telegram-SSL<br>
--BITEL (ON) redes waze, tiktok-SSL<br>
+-CLARO (ON) redes sociales<br>
+-BITEL (ON) redes waze,tiktok<br>
 -ENTEL (ON) sin redes <br>
--MOVISTAR (ON) redes WhatsApp-SSL
+-MOVISTAR (ON) redes WhatsApp
 
 -SE VIENE PRÓXIMAMENTE TODO SIN REDES
 
@@ -77,9 +77,6 @@ https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 》3 servidores Premium De ALTA CALIDAD
 
 -mejor velocidad y estabilidad Premium
-
-=>1 USUARIO = S/5 (OFERTA)30 dia<br>
-•conexión 1 celular y acceso a servidor gratis sin caídas
 
 =================================<br>
 => ACCESO A TODO LOS SERVER PREMIUM<br>
