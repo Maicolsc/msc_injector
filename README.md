@@ -51,11 +51,6 @@ https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 -ENTEL (ON) sin redes <br>
 -MOVISTAR (ON) redes WhatsApp
 
-codigos desBan ENTEL: 
-
-DesBan 1:{*515*6*2*1*1*1#}
-DesBan 2:{*515*2*2*2*1*1#}
-
 -SE VIENE PRÓXIMAMENTE TODO SIN REDES
 
 ==================================
