@@ -67,7 +67,7 @@ https://app.box.com/s/nbn2n8sqcedgh5kxz752ppc6ncrgodcn
 -YAPE <br>
 -BCP <br>
 -TUNKI <br>
--RECARGA ENTEL <br>
+-RECARGA móvil<br>
 
 ●🛰🛰🛰🛰🛰🛰🛰🛰🛰🛰🛰🛰
 
