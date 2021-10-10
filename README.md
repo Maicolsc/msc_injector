@@ -29,19 +29,19 @@ GRUPOS y CANAL YT MSC<br>
 
 ●MSC INJECTOR_PRO(confg:17)oficial
 
-=> ACTUALIZADO: 25 de septiembre 2021
+=> ACTUALIZADO: 10 de octubre 2021
 
 DESCARGA AQUI👇<br>
- http://red.mscperu.online/
+ https://bit.ly/msc-peru
 
 -si tienes problemas instala versión lite
 
 ●MSC_VPNLite_(LITE_cf:11)oficial 
 
-=> ACTUALIZADO: 25 de setiembre 2021
+=> ACTUALIZADO: 10 de octubre 2021
 
 DESCARGA AQUI👇<br>
-http://red.mscperu.online/
+https://bit.ly/msc-peru
 
 =>Server VPS DE ALTA CALIDAD MSC
 
