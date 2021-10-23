@@ -32,7 +32,7 @@ GRUPOS y CANAL YT MSC<br>
 => ACTUALIZADO: 10 de octubre 2021
 
 DESCARGA AQUI👇<br>
- https://bit.ly/msc-peru
+ https://web.mscperu.online/
 
 -si tienes problemas instala versión lite
 
@@ -41,7 +41,7 @@ DESCARGA AQUI👇<br>
 => ACTUALIZADO: 10 de octubre 2021
 
 DESCARGA AQUI👇<br>
-https://bit.ly/msc-peru
+https://web.mscperu.online/
 
 =>Server VPS DE ALTA CALIDAD MSC
 
